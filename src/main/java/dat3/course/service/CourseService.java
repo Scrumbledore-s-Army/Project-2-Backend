@@ -1,11 +1,9 @@
-package dat3.course.service;
+package dat3.Course.service;
 
-import dat3.course.dto.CourseRequest;
-import dat3.course.dto.CourseResponse;
-
-import dat3.course.entity.Course;
-import dat3.course.repository.CourseRepository;
-import dat3.course.repository.CourseRepository;
+import dat3.Course.dto.CourseRequest;
+import dat3.Course.dto.CourseResponse;
+import dat3.Course.entity.Course;
+import dat3.Course.repository.CourseRepository;
 import org.springframework.stereotype.Service;
 
 @Service

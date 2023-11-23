@@ -1,8 +1,6 @@
-package dat3.course.dto;
+package dat3.Course.dto;
 
-import dat3.course.entity.Course;
-import dat3.airplane.Airplane;
-import dat3.course.entity.Course;
+import dat3.Course.entity.Course;
 import lombok.*;
 
 import java.time.LocalDate;
